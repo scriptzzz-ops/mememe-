@@ -102,3 +102,5 @@
        </div>
      </div>
    );
+
+export default TextControls
